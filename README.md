@@ -3,7 +3,8 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Lucca Maximo Duarte
+- Matricula: 890996
 
-## Print da tela da página criad
+## Print da tela da página criada
+![Currículo](print.jpg.jpg)
